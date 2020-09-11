@@ -2,6 +2,11 @@
 ## Chandra Kishor
  [https://developerck.com](https://developerck.com)
  
+  ### **Repositories [Active]**
+  
+   - **Moodle Enrolment Method using  Fawry Payment : [https://developerck.github.io/fawry](https://developerck.github.io/fawry)** 
+  
+ 
  ### **Repositories [Archived]** 
   - **Tic-Toe : [https://github.com/developerck/tictoe](https://github.com/developerck/tictoe)** 
   
