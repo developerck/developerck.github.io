@@ -4,7 +4,7 @@
  
   ### **Repositories [Active]**
   
-   - **Moodle Enrolment Method using  Fawry Payment : [https://developerck.github.io/moodle_enrol_fawry/](https://developerck.github.io/moodle_enrol_fawry/)** 
+   - **Moodle Enrolment Method using  Fawry Payment : [https://developerck.github.io/moodle_enrol_fawry/](https://developerck.github.io/moodle-enrol-fawry/)** 
   
  
  ### **Repositories [Archived]** 
