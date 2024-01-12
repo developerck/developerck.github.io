@@ -2,9 +2,7 @@
 ## Chandra Kishor
  [https://developerck.com](https://developerck.com)
  
-  ### **Repositories [Active]**
-  
-   - **Moodle Enrolment Method using  Paymob Payment : [https://developerck.github.io/moodle_enrol_paymob/](https://developerck.github.io/moodle-enrol-paymob/)** 
+
   
  
  ### **Repositories [Archived]** 
